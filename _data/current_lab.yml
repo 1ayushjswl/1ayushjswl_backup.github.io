@@ -1,15 +1,15 @@
-- name: PI Name
-  position: PI
-  email: pi@institution.edu
+- name: Ayush Jaiswal
+  position: Reseach Scholar
+  email: ayushjwl@gmail.com
  
   
-- name: Grad Student
-  position: Grad Student
+- name: Sudip Pandit
+  position: Research Scholar
   email: grad@institution.edu
   github: github_handle
 
 
-- name: Super Postdoc 
+- name: Joydip saha
   position: Postdoc
   email: super_postdoc@institution.edu
   google_scholar: super_scholar
