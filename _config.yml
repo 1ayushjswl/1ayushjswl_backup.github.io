@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your laboratory title
+title: Geometry and Algebra group
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new lab website here. You can edit this
@@ -25,7 +25,7 @@ github_username:  labgithub
 webmaster: Web McMaster
 
 # Lab contact info
-pi_name: Your Principal Investigator name
+pi_name: Ayush Jaiswal
 pi_email: pi_email@example.com
 pi_phone: (555) 555-5555
 pi_fax: (555) 555-0000
